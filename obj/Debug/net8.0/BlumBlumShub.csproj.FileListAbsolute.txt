@@ -1,0 +1,14 @@
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/bin/Debug/net8.0/BlumBlumShub
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/bin/Debug/net8.0/BlumBlumShub.deps.json
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/bin/Debug/net8.0/BlumBlumShub.runtimeconfig.json
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/bin/Debug/net8.0/BlumBlumShub.dll
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/bin/Debug/net8.0/BlumBlumShub.pdb
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/BlumBlumShub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/BlumBlumShub.AssemblyInfoInputs.cache
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/BlumBlumShub.AssemblyInfo.cs
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/BlumBlumShub.csproj.CoreCompileInputs.cache
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/BlumBlumShub.dll
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/refint/BlumBlumShub.dll
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/BlumBlumShub.pdb
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/BlumBlumShub.genruntimeconfig.cache
+/Users/Tiger/Desktop/05_CSC281/hw-3/BlumBlumShub/obj/Debug/net8.0/ref/BlumBlumShub.dll
